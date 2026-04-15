@@ -13,3 +13,6 @@ The Auto Experiment Tracker is a tool designed to streamline the process of coll
 
 ## Getting Started
 To get started with the Auto Experiment Tracker, simply clone this repository and follow the installation instructions in the wiki.
+
+## Changelog
+- Added utility functions
